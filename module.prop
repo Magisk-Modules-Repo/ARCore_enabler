@@ -1,0 +1,7 @@
+id=ARCore_enabler
+name=ARCore enabler
+version=v1.0
+versionCode=1
+author=MarcAnt01
+description=Enables ARCore support for unsupported devices and allows you to install apps with ARCore support via Play Store
+minMagisk=17000
