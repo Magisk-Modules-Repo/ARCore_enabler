@@ -6,7 +6,9 @@ It changes the fingerprint of your phone to Google Pixel 2 one, which is support
 
 The module also adds a xml so that Play Store will allow you to look for apps that support ARCore and install ARCore itself.
 
-# Clear Play Store data after installing the module, otherwise Play Store won't notice the changes
+# Notes
+1. Clear Play Store data after installing the module, otherwise Play Store won't notice the changes;
+2. Security patches info in system settings won't show the right phone patches, but the fingerprint one after installing the module.
 
 
 # Downloads
@@ -14,6 +16,6 @@ The module also adds a xml so that Play Store will allow you to look for apps th
 - [Playground](https://drive.google.com/uc?id=1GsbffEgyyyA8VIQLJX3bEgcwNG6dfZ0B&export=download): original Playground works just on Pixel devices and force closes on other devices, but with this modded version by Arnova8G2 you won't have problems. Android 9.0 is required;
 - [AR stickers](https://f.celsoazevedo.com/file/gcamera/ar/ARStickers_All_Pack_V1.5build-1.3.180720036.apk): old version of Playground for Android 8.x devices.
 
-# Credits 
+# Credits
 - [Didgeridoohan](https://github.com/Didgeridoohan) for helping me with fingerprint stuff;
 - [Tadi](https://github.com/TadiT7) for ARCore xml.

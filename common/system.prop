@@ -2,3 +2,4 @@
 ro.build.fingerprint=google/walleye/walleye:9/PQ1A.190105.004/5148680:user/release-keys
 ro.bootimage.build.fingerprint=google/walleye/walleye:9/PQ1A.190105.004/5148680:user/release-keys
 ro.vendor.build.fingerprint=google/walleye/walleye:9/PQ1A.190105.004/5148680:user/release-keys
+ro.build.version.security_patch=2019-01-05
