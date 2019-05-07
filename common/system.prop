@@ -1,5 +1,5 @@
 # THIS FILE WILL CHANGE YOUR FINGERPRINT TO GOOGLE PIXEL 2 ONE
-ro.build.fingerprint=google/walleye/walleye:9/PQ2A.190405.003/5310204:user/release-keys
-ro.bootimage.build.fingerprint=google/walleye/walleye:9/PQ2A.190405.003/5310204:user/release-keys
-ro.vendor.build.fingerprint=google/walleye/walleye:9/PQ2A.190405.003/5310204:user/release-keys
-ro.build.version.security_patch=2019-04-05
+ro.build.fingerprint=google/walleye/walleye:9/PQ3A.190505.001/5373320:user/release-keys
+ro.bootimage.build.fingerprint=google/walleye/walleye:9/PQ3A.190505.001/5373320:user/release-keys
+ro.vendor.build.fingerprint=google/walleye/walleye:9/PQ3A.190505.001/5373320:user/release-keys
+ro.build.version.security_patch=2019-05-05
