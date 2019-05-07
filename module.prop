@@ -1,6 +1,6 @@
 id=ARCore_enabler
 name=ARCore/Playground Patcher
-version=v1.4
-versionCode=5
+version=v1.5
+versionCode=6
 author=MarcAnt01
 description=Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.
