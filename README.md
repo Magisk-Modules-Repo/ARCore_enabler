@@ -6,9 +6,8 @@ It changes the fingerprint of your phone to Google Pixel 2 one, which is support
 The module also adds a xml so that Play Store will allow you to look for apps that support ARCore and install ARCore itself.
 
 # Notes
-1. Clear Play Store data after installing the module, otherwise Play Store won't notice the changes;
-2. Security patches info in system settings won't show the right phone patches, but the fingerprint one after installing the module.
-3. To install Playground you have to use the version patched by Arnova, you will find it in [this page](https://www.celsoazevedo.com/files/android/google-camera/ar/)
+1. Security patches info in system settings won't show the right phone patches, but the fingerprint ones after installing the module (this is required for SafetyNet);
+2. To install Playground you have to use the version patched by Arnova, you will find it in [this page](https://www.celsoazevedo.com/files/android/google-camera/ar/).
 
 # Changelog
 
@@ -41,4 +40,4 @@ Initial release
 # Credits
 - [Didgeridoohan](https://github.com/Didgeridoohan) for helping me with fingerprint stuff;
 - [Tadi](https://github.com/TadiT7) for ARCore xml;
-- [celsoazevedo](https://github.com/celsoazevedo) for hosting and directly contributing to the module.
+- [celsoazevedo](https://github.com/celsoazevedo) for direct contributions.
