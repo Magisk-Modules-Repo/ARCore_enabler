@@ -11,6 +11,10 @@ The module also adds a xml so that Play Store will allow you to look for apps th
 
 # Changelog
 
+### V 1.6
+- Automatically clear Play Store data during the initial installation;
+- Updated fingerprint.
+
 ### V 1.5
 - Updated fingerprint;
 - Changed module name.
