@@ -14,8 +14,7 @@
      limitations under the License.
 -->
 
-<!-- Normally, it's declared by HAL or something, but is's xmlpak after all...
-     Needed for ARCore. -->
+<!-- Display ARCore apps on Play Store -->
 <permissions>
     <feature name="android.hardware.camera.ar" />
 </permissions>
