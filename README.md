@@ -9,9 +9,15 @@ The module also adds a xml so that Play Store will allow you to look for apps th
 
 # Notes
 1. Security patches info in system settings won't show the right phone patches, but the fingerprint ones after installing the module (this is required for SafetyNet);
-2. To install Playground you have to use the version patched by Arnova, you will find it in [this page](https://www.celsoazevedo.com/files/android/google-camera/ar/).
+2. To install Playground you have to use the version patched by Arnova, you will find it in [this page](https://www.celsoazevedo.com/files/android/google-camera/ar/):
+3. From the version 2.0, during the installation Play Store cache will be cleared. It might take some time for changes to be displayed, if the don't after some time, you can force them by clearing Play Store data.
 
 # Changelog
+
+### V 2.0
+- Switched to Unity template;
+- Wipe cache instead of Play Store data during the initial installation;
+- Updated fingerprint.
 
 ### V 1.6
 - Automatically clear Play Store data during the initial installation;
