@@ -5,7 +5,10 @@ A Magisk module that enables ARCore support for device that haven't got official
 
 # How does this module work?
 It changes the fingerprint of your phone to Google Pixel 2 one, which is supported officially by ARCore, so apps will think your phone is a Pixel 2. I have chosen this fingerprint because it works properly and allows to install Playground packages that are limited to Google Pixels.
+
 The module also adds a xml so that Play Store will allow you to look for apps that support ARCore and install ARCore itself.
+
+### You might want to use this module also without ARCore stuff, in fact if your phone isn't passing SafetyNet (CTS profile), this module will fix that, as well.
 
 # Notes
 1. Security patches info in system settings won't show the right phone patches, but the fingerprint ones after installing the module (this is required for SafetyNet);
