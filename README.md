@@ -17,6 +17,9 @@ The module also adds a xml so that Play Store will allow you to look for apps th
 
 # Changelog
 
+### V 2.1
+Updated fingerprint and Unity version
+
 ### V 2.0
 - Switched to Unity template;
 - Wipe cache instead of Play Store data during the initial installation;
