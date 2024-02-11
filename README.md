@@ -3,6 +3,11 @@ A Magisk module that enables ARCore support for device that haven't got official
 
 ### ARCore has been renamed by Google to Google Play Services for AR. Despite that, Google keeps calling it with the old name in the documentation, so I'll call it ARCore the same.
 
+# [Download](https://www.celsoazevedo.com/files/random/ARCore_Playground_Patcher-v2.1.zip)
+Some notes:
+- Unfortunately, the Magisk Modules repo was irresponsibly and suddenly shut down by [topjohnwu](https://github.com/topjohnwu), the creator of Magisk, so I have to provide the .zip file through an [external site](https://www.celsoazevedo.com/files/random/ARCore_Playground_Patcher-v2.1.zip);
+- The module is, at this point, years-old and unmantained, it is not guaranteed to work on newer Android/ARCore versions.
+
 # How does this module work?
 It changes the fingerprint of your phone to Google Pixel 2 one, which is supported officially by ARCore, so apps will think your phone is a Pixel 2. I have chosen this fingerprint because it works properly and allows to install Playground packages that are limited to Google Pixels.
 
